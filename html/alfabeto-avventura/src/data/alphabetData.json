@@ -1,0 +1,3329 @@
+{
+  "letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "Z"
+  ],
+  "data": {
+    "A": {
+      "letter": "A",
+      "lower": "a",
+      "categories": {
+        "animali": [
+          {
+            "word": "ape",
+            "upper": "APE",
+            "image": "🖼️",
+            "audioKey": "ape",
+            "sentence": "La parola ape inizia con A."
+          },
+          {
+            "word": "asino",
+            "upper": "ASINO",
+            "image": "🖼️",
+            "audioKey": "asino",
+            "sentence": "La parola asino inizia con A."
+          },
+          {
+            "word": "aquila",
+            "upper": "AQUILA",
+            "image": "🖼️",
+            "audioKey": "aquila",
+            "sentence": "La parola aquila inizia con A."
+          },
+          {
+            "word": "anatra",
+            "upper": "ANATRA",
+            "image": "🖼️",
+            "audioKey": "anatra",
+            "sentence": "La parola anatra inizia con A."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "architetto",
+            "upper": "ARCHITETTO",
+            "image": "🖼️",
+            "audioKey": "architetto",
+            "sentence": "La parola architetto inizia con A."
+          },
+          {
+            "word": "attore",
+            "upper": "ATTORE",
+            "image": "🖼️",
+            "audioKey": "attore",
+            "sentence": "La parola attore inizia con A."
+          },
+          {
+            "word": "astronauta",
+            "upper": "ASTRONAUTA",
+            "image": "🖼️",
+            "audioKey": "astronauta",
+            "sentence": "La parola astronauta inizia con A."
+          },
+          {
+            "word": "agricoltore",
+            "upper": "AGRICOLTORE",
+            "image": "🖼️",
+            "audioKey": "agricoltore",
+            "sentence": "La parola agricoltore inizia con A."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "albicocca",
+            "upper": "ALBICOCCA",
+            "image": "🖼️",
+            "audioKey": "albicocca",
+            "sentence": "La parola albicocca inizia con A."
+          },
+          {
+            "word": "ananas",
+            "upper": "ANANAS",
+            "image": "🖼️",
+            "audioKey": "ananas",
+            "sentence": "La parola ananas inizia con A."
+          },
+          {
+            "word": "arancia",
+            "upper": "ARANCIA",
+            "image": "🖼️",
+            "audioKey": "arancia",
+            "sentence": "La parola arancia inizia con A."
+          },
+          {
+            "word": "avocado",
+            "upper": "AVOCADO",
+            "image": "🖼️",
+            "audioKey": "avocado",
+            "sentence": "La parola avocado inizia con A."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "asparago",
+            "upper": "ASPARAGO",
+            "image": "🖼️",
+            "audioKey": "asparago",
+            "sentence": "La parola asparago inizia con A."
+          },
+          {
+            "word": "aglio",
+            "upper": "AGLIO",
+            "image": "🖼️",
+            "audioKey": "aglio",
+            "sentence": "La parola aglio inizia con A."
+          },
+          {
+            "word": "arachide",
+            "upper": "ARACHIDE",
+            "image": "🖼️",
+            "audioKey": "arachide",
+            "sentence": "La parola arachide inizia con A."
+          },
+          {
+            "word": "avena",
+            "upper": "AVENA",
+            "image": "🖼️",
+            "audioKey": "avena",
+            "sentence": "La parola avena inizia con A."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "ago",
+            "upper": "AGO",
+            "image": "🖼️",
+            "audioKey": "ago",
+            "sentence": "La parola ago inizia con A."
+          },
+          {
+            "word": "anello",
+            "upper": "ANELLO",
+            "image": "🖼️",
+            "audioKey": "anello",
+            "sentence": "La parola anello inizia con A."
+          },
+          {
+            "word": "aquilone",
+            "upper": "AQUILONE",
+            "image": "🖼️",
+            "audioKey": "aquilone",
+            "sentence": "La parola aquilone inizia con A."
+          },
+          {
+            "word": "armadio",
+            "upper": "ARMADIO",
+            "image": "🖼️",
+            "audioKey": "armadio",
+            "sentence": "La parola armadio inizia con A."
+          }
+        ]
+      },
+      "storybook": "A come ape: una piccola storia allegra per ricordare la lettera."
+    },
+    "B": {
+      "letter": "B",
+      "lower": "b",
+      "categories": {
+        "animali": [
+          {
+            "word": "balena",
+            "upper": "BALENA",
+            "image": "🖼️",
+            "audioKey": "balena",
+            "sentence": "La parola balena inizia con B."
+          },
+          {
+            "word": "bruco",
+            "upper": "BRUCO",
+            "image": "🖼️",
+            "audioKey": "bruco",
+            "sentence": "La parola bruco inizia con B."
+          },
+          {
+            "word": "bue",
+            "upper": "BUE",
+            "image": "🖼️",
+            "audioKey": "bue",
+            "sentence": "La parola bue inizia con B."
+          },
+          {
+            "word": "barboncino",
+            "upper": "BARBONCINO",
+            "image": "🖼️",
+            "audioKey": "barboncino",
+            "sentence": "La parola barboncino inizia con B."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "barbiere",
+            "upper": "BARBIERE",
+            "image": "🖼️",
+            "audioKey": "barbiere",
+            "sentence": "La parola barbiere inizia con B."
+          },
+          {
+            "word": "bagnino",
+            "upper": "BAGNINO",
+            "image": "🖼️",
+            "audioKey": "bagnino",
+            "sentence": "La parola bagnino inizia con B."
+          },
+          {
+            "word": "bibliotecario",
+            "upper": "BIBLIOTECARIO",
+            "image": "🖼️",
+            "audioKey": "bibliotecario",
+            "sentence": "La parola bibliotecario inizia con B."
+          },
+          {
+            "word": "biologo",
+            "upper": "BIOLOGO",
+            "image": "🖼️",
+            "audioKey": "biologo",
+            "sentence": "La parola biologo inizia con B."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "banana",
+            "upper": "BANANA",
+            "image": "🖼️",
+            "audioKey": "banana",
+            "sentence": "La parola banana inizia con B."
+          },
+          {
+            "word": "bergamotto",
+            "upper": "BERGAMOTTO",
+            "image": "🖼️",
+            "audioKey": "bergamotto",
+            "sentence": "La parola bergamotto inizia con B."
+          },
+          {
+            "word": "bacche",
+            "upper": "BACCHE",
+            "image": "🖼️",
+            "audioKey": "bacche",
+            "sentence": "La parola bacche inizia con B."
+          },
+          {
+            "word": "babaco",
+            "upper": "BABACO",
+            "image": "🖼️",
+            "audioKey": "babaco",
+            "sentence": "La parola babaco inizia con B."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "barbabietola",
+            "upper": "BARBABIETOLA",
+            "image": "🖼️",
+            "audioKey": "barbabietola",
+            "sentence": "La parola barbabietola inizia con B."
+          },
+          {
+            "word": "broccoli",
+            "upper": "BROCCOLI",
+            "image": "🖼️",
+            "audioKey": "broccoli",
+            "sentence": "La parola broccoli inizia con B."
+          },
+          {
+            "word": "biscotto",
+            "upper": "BISCOTTO",
+            "image": "🖼️",
+            "audioKey": "biscotto",
+            "sentence": "La parola biscotto inizia con B."
+          },
+          {
+            "word": "burro",
+            "upper": "BURRO",
+            "image": "🖼️",
+            "audioKey": "burro",
+            "sentence": "La parola burro inizia con B."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "borsa",
+            "upper": "BORSA",
+            "image": "🖼️",
+            "audioKey": "borsa",
+            "sentence": "La parola borsa inizia con B."
+          },
+          {
+            "word": "bicicletta",
+            "upper": "BICICLETTA",
+            "image": "🖼️",
+            "audioKey": "bicicletta",
+            "sentence": "La parola bicicletta inizia con B."
+          },
+          {
+            "word": "bottiglia",
+            "upper": "BOTTIGLIA",
+            "image": "🖼️",
+            "audioKey": "bottiglia",
+            "sentence": "La parola bottiglia inizia con B."
+          },
+          {
+            "word": "banco",
+            "upper": "BANCO",
+            "image": "🖼️",
+            "audioKey": "banco",
+            "sentence": "La parola banco inizia con B."
+          }
+        ]
+      },
+      "storybook": "B come balena: una piccola storia allegra per ricordare la lettera."
+    },
+    "C": {
+      "letter": "C",
+      "lower": "c",
+      "categories": {
+        "animali": [
+          {
+            "word": "cane",
+            "upper": "CANE",
+            "image": "🖼️",
+            "audioKey": "cane",
+            "sentence": "La parola cane inizia con C."
+          },
+          {
+            "word": "cavallo",
+            "upper": "CAVALLO",
+            "image": "🖼️",
+            "audioKey": "cavallo",
+            "sentence": "La parola cavallo inizia con C."
+          },
+          {
+            "word": "coniglio",
+            "upper": "CONIGLIO",
+            "image": "🖼️",
+            "audioKey": "coniglio",
+            "sentence": "La parola coniglio inizia con C."
+          },
+          {
+            "word": "coccinella",
+            "upper": "COCCINELLA",
+            "image": "🖼️",
+            "audioKey": "coccinella",
+            "sentence": "La parola coccinella inizia con C."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "cuoco",
+            "upper": "CUOCO",
+            "image": "🖼️",
+            "audioKey": "cuoco",
+            "sentence": "La parola cuoco inizia con C."
+          },
+          {
+            "word": "calciatore",
+            "upper": "CALCIATORE",
+            "image": "🖼️",
+            "audioKey": "calciatore",
+            "sentence": "La parola calciatore inizia con C."
+          },
+          {
+            "word": "cantante",
+            "upper": "CANTANTE",
+            "image": "🖼️",
+            "audioKey": "cantante",
+            "sentence": "La parola cantante inizia con C."
+          },
+          {
+            "word": "carpentiere",
+            "upper": "CARPENTIERE",
+            "image": "🖼️",
+            "audioKey": "carpentiere",
+            "sentence": "La parola carpentiere inizia con C."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "ciliegia",
+            "upper": "CILIEGIA",
+            "image": "🖼️",
+            "audioKey": "ciliegia",
+            "sentence": "La parola ciliegia inizia con C."
+          },
+          {
+            "word": "cocco",
+            "upper": "COCCO",
+            "image": "🖼️",
+            "audioKey": "cocco",
+            "sentence": "La parola cocco inizia con C."
+          },
+          {
+            "word": "cachi",
+            "upper": "CACHI",
+            "image": "🖼️",
+            "audioKey": "cachi",
+            "sentence": "La parola cachi inizia con C."
+          },
+          {
+            "word": "clementina",
+            "upper": "CLEMENTINA",
+            "image": "🖼️",
+            "audioKey": "clementina",
+            "sentence": "La parola clementina inizia con C."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "carota",
+            "upper": "CAROTA",
+            "image": "🖼️",
+            "audioKey": "carota",
+            "sentence": "La parola carota inizia con C."
+          },
+          {
+            "word": "cavolfiore",
+            "upper": "CAVOLFIORE",
+            "image": "🖼️",
+            "audioKey": "cavolfiore",
+            "sentence": "La parola cavolfiore inizia con C."
+          },
+          {
+            "word": "cereali",
+            "upper": "CEREALI",
+            "image": "🖼️",
+            "audioKey": "cereali",
+            "sentence": "La parola cereali inizia con C."
+          },
+          {
+            "word": "cioccolato",
+            "upper": "CIOCCOLATO",
+            "image": "🖼️",
+            "audioKey": "cioccolato",
+            "sentence": "La parola cioccolato inizia con C."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "casa",
+            "upper": "CASA",
+            "image": "🖼️",
+            "audioKey": "casa",
+            "sentence": "La parola casa inizia con C."
+          },
+          {
+            "word": "campana",
+            "upper": "CAMPANA",
+            "image": "🖼️",
+            "audioKey": "campana",
+            "sentence": "La parola campana inizia con C."
+          },
+          {
+            "word": "cuscino",
+            "upper": "CUSCINO",
+            "image": "🖼️",
+            "audioKey": "cuscino",
+            "sentence": "La parola cuscino inizia con C."
+          },
+          {
+            "word": "computer",
+            "upper": "COMPUTER",
+            "image": "🖼️",
+            "audioKey": "computer",
+            "sentence": "La parola computer inizia con C."
+          }
+        ]
+      },
+      "storybook": "C come cane: una piccola storia allegra per ricordare la lettera."
+    },
+    "D": {
+      "letter": "D",
+      "lower": "d",
+      "categories": {
+        "animali": [
+          {
+            "word": "delfino",
+            "upper": "DELFINO",
+            "image": "🖼️",
+            "audioKey": "delfino",
+            "sentence": "La parola delfino inizia con D."
+          },
+          {
+            "word": "daino",
+            "upper": "DAINO",
+            "image": "🖼️",
+            "audioKey": "daino",
+            "sentence": "La parola daino inizia con D."
+          },
+          {
+            "word": "dobermann",
+            "upper": "DOBERMANN",
+            "image": "🖼️",
+            "audioKey": "dobermann",
+            "sentence": "La parola dobermann inizia con D."
+          },
+          {
+            "word": "drago",
+            "upper": "DRAGO",
+            "image": "🖼️",
+            "audioKey": "drago",
+            "sentence": "La parola drago inizia con D."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "dentista",
+            "upper": "DENTISTA",
+            "image": "🖼️",
+            "audioKey": "dentista",
+            "sentence": "La parola dentista inizia con D."
+          },
+          {
+            "word": "dottore",
+            "upper": "DOTTORE",
+            "image": "🖼️",
+            "audioKey": "dottore",
+            "sentence": "La parola dottore inizia con D."
+          },
+          {
+            "word": "designer",
+            "upper": "DESIGNER",
+            "image": "🖼️",
+            "audioKey": "designer",
+            "sentence": "La parola designer inizia con D."
+          },
+          {
+            "word": "direttore",
+            "upper": "DIRETTORE",
+            "image": "🖼️",
+            "audioKey": "direttore",
+            "sentence": "La parola direttore inizia con D."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "dattero",
+            "upper": "DATTERO",
+            "image": "🖼️",
+            "audioKey": "dattero",
+            "sentence": "La parola dattero inizia con D."
+          },
+          {
+            "word": "durian",
+            "upper": "DURIAN",
+            "image": "🖼️",
+            "audioKey": "durian",
+            "sentence": "La parola durian inizia con D."
+          },
+          {
+            "word": "dragonfruit",
+            "upper": "DRAGONFRUIT",
+            "image": "🖼️",
+            "audioKey": "dragonfruit",
+            "sentence": "La parola dragonfruit inizia con D."
+          },
+          {
+            "word": "datterino",
+            "upper": "DATTERINO",
+            "image": "🖼️",
+            "audioKey": "datterino",
+            "sentence": "La parola datterino inizia con D."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "dadolata",
+            "upper": "DADOLATA",
+            "image": "🖼️",
+            "audioKey": "dadolata",
+            "sentence": "La parola dadolata inizia con D."
+          },
+          {
+            "word": "dessert",
+            "upper": "DESSERT",
+            "image": "🖼️",
+            "audioKey": "dessert",
+            "sentence": "La parola dessert inizia con D."
+          },
+          {
+            "word": "dolce",
+            "upper": "DOLCE",
+            "image": "🖼️",
+            "audioKey": "dolce",
+            "sentence": "La parola dolce inizia con D."
+          },
+          {
+            "word": "dado",
+            "upper": "DADO",
+            "image": "🖼️",
+            "audioKey": "dado",
+            "sentence": "La parola dado inizia con D."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "dado",
+            "upper": "DADO",
+            "image": "🖼️",
+            "audioKey": "dado",
+            "sentence": "La parola dado inizia con D."
+          },
+          {
+            "word": "divano",
+            "upper": "DIVANO",
+            "image": "🖼️",
+            "audioKey": "divano",
+            "sentence": "La parola divano inizia con D."
+          },
+          {
+            "word": "diario",
+            "upper": "DIARIO",
+            "image": "🖼️",
+            "audioKey": "diario",
+            "sentence": "La parola diario inizia con D."
+          },
+          {
+            "word": "disegno",
+            "upper": "DISEGNO",
+            "image": "🖼️",
+            "audioKey": "disegno",
+            "sentence": "La parola disegno inizia con D."
+          }
+        ]
+      },
+      "storybook": "D come delfino: una piccola storia allegra per ricordare la lettera."
+    },
+    "E": {
+      "letter": "E",
+      "lower": "e",
+      "categories": {
+        "animali": [
+          {
+            "word": "elefante",
+            "upper": "ELEFANTE",
+            "image": "🖼️",
+            "audioKey": "elefante",
+            "sentence": "La parola elefante inizia con E."
+          },
+          {
+            "word": "emu",
+            "upper": "EMU",
+            "image": "🖼️",
+            "audioKey": "emu",
+            "sentence": "La parola emu inizia con E."
+          },
+          {
+            "word": "ermellino",
+            "upper": "ERMELLINO",
+            "image": "🖼️",
+            "audioKey": "ermellino",
+            "sentence": "La parola ermellino inizia con E."
+          },
+          {
+            "word": "echidna",
+            "upper": "ECHIDNA",
+            "image": "🖼️",
+            "audioKey": "echidna",
+            "sentence": "La parola echidna inizia con E."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "elettricista",
+            "upper": "ELETTRICISTA",
+            "image": "🖼️",
+            "audioKey": "elettricista",
+            "sentence": "La parola elettricista inizia con E."
+          },
+          {
+            "word": "educatore",
+            "upper": "EDUCATORE",
+            "image": "🖼️",
+            "audioKey": "educatore",
+            "sentence": "La parola educatore inizia con E."
+          },
+          {
+            "word": "editore",
+            "upper": "EDITORE",
+            "image": "🖼️",
+            "audioKey": "editore",
+            "sentence": "La parola editore inizia con E."
+          },
+          {
+            "word": "economista",
+            "upper": "ECONOMISTA",
+            "image": "🖼️",
+            "audioKey": "economista",
+            "sentence": "La parola economista inizia con E."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "uva espina",
+            "upper": "UVA ESPINA",
+            "image": "🖼️",
+            "audioKey": "uva espina",
+            "sentence": "La parola uva espina inizia con E."
+          },
+          {
+            "word": "elseberry",
+            "upper": "ELSEBERRY",
+            "image": "🖼️",
+            "audioKey": "elseberry",
+            "sentence": "La parola elseberry inizia con E."
+          },
+          {
+            "word": "etanio",
+            "upper": "ETANIO",
+            "image": "🖼️",
+            "audioKey": "etanio",
+            "sentence": "La parola etanio inizia con E."
+          },
+          {
+            "word": "egel",
+            "upper": "EGEL",
+            "image": "🖼️",
+            "audioKey": "egel",
+            "sentence": "La parola egel inizia con E."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "endivia",
+            "upper": "ENDIVIA",
+            "image": "🖼️",
+            "audioKey": "endivia",
+            "sentence": "La parola endivia inizia con E."
+          },
+          {
+            "word": "emmental",
+            "upper": "EMMENTAL",
+            "image": "🖼️",
+            "audioKey": "emmental",
+            "sentence": "La parola emmental inizia con E."
+          },
+          {
+            "word": "erbette",
+            "upper": "ERBETTE",
+            "image": "🖼️",
+            "audioKey": "erbette",
+            "sentence": "La parola erbette inizia con E."
+          },
+          {
+            "word": "estratto",
+            "upper": "ESTRATTO",
+            "image": "🖼️",
+            "audioKey": "estratto",
+            "sentence": "La parola estratto inizia con E."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "elmetto",
+            "upper": "ELMETTO",
+            "image": "🖼️",
+            "audioKey": "elmetto",
+            "sentence": "La parola elmetto inizia con E."
+          },
+          {
+            "word": "elastico",
+            "upper": "ELASTICO",
+            "image": "🖼️",
+            "audioKey": "elastico",
+            "sentence": "La parola elastico inizia con E."
+          },
+          {
+            "word": "edicola",
+            "upper": "EDICOLA",
+            "image": "🖼️",
+            "audioKey": "edicola",
+            "sentence": "La parola edicola inizia con E."
+          },
+          {
+            "word": "espositore",
+            "upper": "ESPOSITORE",
+            "image": "🖼️",
+            "audioKey": "espositore",
+            "sentence": "La parola espositore inizia con E."
+          }
+        ]
+      },
+      "storybook": "E come elefante: una piccola storia allegra per ricordare la lettera."
+    },
+    "H": {
+      "letter": "H",
+      "lower": "h",
+      "categories": {
+        "animali": [
+          {
+            "word": "hamster",
+            "upper": "HAMSTER",
+            "image": "🖼️",
+            "audioKey": "hamster",
+            "sentence": "La parola hamster inizia con H."
+          },
+          {
+            "word": "husky",
+            "upper": "HUSKY",
+            "image": "🖼️",
+            "audioKey": "husky",
+            "sentence": "La parola husky inizia con H."
+          },
+          {
+            "word": "hiena",
+            "upper": "HIENA",
+            "image": "🖼️",
+            "audioKey": "hiena",
+            "sentence": "La parola hiena inizia con H."
+          },
+          {
+            "word": "halibut",
+            "upper": "HALIBUT",
+            "image": "🖼️",
+            "audioKey": "halibut",
+            "sentence": "La parola halibut inizia con H."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "hostess",
+            "upper": "HOSTESS",
+            "image": "🖼️",
+            "audioKey": "hostess",
+            "sentence": "La parola hostess inizia con H."
+          },
+          {
+            "word": "hair stylist",
+            "upper": "HAIR STYLIST",
+            "image": "🖼️",
+            "audioKey": "hair stylist",
+            "sentence": "La parola hair stylist inizia con H."
+          },
+          {
+            "word": "hacker",
+            "upper": "HACKER",
+            "image": "🖼️",
+            "audioKey": "hacker",
+            "sentence": "La parola hacker inizia con H."
+          },
+          {
+            "word": "hotel manager",
+            "upper": "HOTEL MANAGER",
+            "image": "🖼️",
+            "audioKey": "hotel manager",
+            "sentence": "La parola hotel manager inizia con H."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "huito",
+            "upper": "HUITO",
+            "image": "🖼️",
+            "audioKey": "huito",
+            "sentence": "La parola huito inizia con H."
+          },
+          {
+            "word": "hawaii berry",
+            "upper": "HAWAII BERRY",
+            "image": "🖼️",
+            "audioKey": "hawaii berry",
+            "sentence": "La parola hawaii berry inizia con H."
+          },
+          {
+            "word": "hala",
+            "upper": "HALA",
+            "image": "🖼️",
+            "audioKey": "hala",
+            "sentence": "La parola hala inizia con H."
+          },
+          {
+            "word": "huckleberry",
+            "upper": "HUCKLEBERRY",
+            "image": "🖼️",
+            "audioKey": "huckleberry",
+            "sentence": "La parola huckleberry inizia con H."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "hamburger",
+            "upper": "HAMBURGER",
+            "image": "🖼️",
+            "audioKey": "hamburger",
+            "sentence": "La parola hamburger inizia con H."
+          },
+          {
+            "word": "hummus",
+            "upper": "HUMMUS",
+            "image": "🖼️",
+            "audioKey": "hummus",
+            "sentence": "La parola hummus inizia con H."
+          },
+          {
+            "word": "hot dog",
+            "upper": "HOT DOG",
+            "image": "🖼️",
+            "audioKey": "hot dog",
+            "sentence": "La parola hot dog inizia con H."
+          },
+          {
+            "word": "harissa",
+            "upper": "HARISSA",
+            "image": "🖼️",
+            "audioKey": "harissa",
+            "sentence": "La parola harissa inizia con H."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "hotel",
+            "upper": "HOTEL",
+            "image": "🖼️",
+            "audioKey": "hotel",
+            "sentence": "La parola hotel inizia con H."
+          },
+          {
+            "word": "hockey",
+            "upper": "HOCKEY",
+            "image": "🖼️",
+            "audioKey": "hockey",
+            "sentence": "La parola hockey inizia con H."
+          },
+          {
+            "word": "hub",
+            "upper": "HUB",
+            "image": "🖼️",
+            "audioKey": "hub",
+            "sentence": "La parola hub inizia con H."
+          },
+          {
+            "word": "habitat",
+            "upper": "HABITAT",
+            "image": "🖼️",
+            "audioKey": "habitat",
+            "sentence": "La parola habitat inizia con H."
+          }
+        ]
+      },
+      "storybook": "H come hamster: una piccola storia allegra per ricordare la lettera."
+    },
+    "Q": {
+      "letter": "Q",
+      "lower": "q",
+      "categories": {
+        "animali": [
+          {
+            "word": "quaglia",
+            "upper": "QUAGLIA",
+            "image": "🖼️",
+            "audioKey": "quaglia",
+            "sentence": "La parola quaglia inizia con Q."
+          },
+          {
+            "word": "quokka",
+            "upper": "QUOKKA",
+            "image": "🖼️",
+            "audioKey": "quokka",
+            "sentence": "La parola quokka inizia con Q."
+          },
+          {
+            "word": "quetzal",
+            "upper": "QUETZAL",
+            "image": "🖼️",
+            "audioKey": "quetzal",
+            "sentence": "La parola quetzal inizia con Q."
+          },
+          {
+            "word": "quoll",
+            "upper": "QUOLL",
+            "image": "🖼️",
+            "audioKey": "quoll",
+            "sentence": "La parola quoll inizia con Q."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "quadrista",
+            "upper": "QUADRISTA",
+            "image": "🖼️",
+            "audioKey": "quadrista",
+            "sentence": "La parola quadrista inizia con Q."
+          },
+          {
+            "word": "questore",
+            "upper": "QUESTORE",
+            "image": "🖼️",
+            "audioKey": "questore",
+            "sentence": "La parola questore inizia con Q."
+          },
+          {
+            "word": "quadro tecnico",
+            "upper": "QUADRO TECNICO",
+            "image": "🖼️",
+            "audioKey": "quadro tecnico",
+            "sentence": "La parola quadro tecnico inizia con Q."
+          },
+          {
+            "word": "quality manager",
+            "upper": "QUALITY MANAGER",
+            "image": "🖼️",
+            "audioKey": "quality manager",
+            "sentence": "La parola quality manager inizia con Q."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "quararibea",
+            "upper": "QUARARIBEA",
+            "image": "🖼️",
+            "audioKey": "quararibea",
+            "sentence": "La parola quararibea inizia con Q."
+          },
+          {
+            "word": "queen anne",
+            "upper": "QUEEN ANNE",
+            "image": "🖼️",
+            "audioKey": "queen anne",
+            "sentence": "La parola queen anne inizia con Q."
+          },
+          {
+            "word": "quince",
+            "upper": "QUINCE",
+            "image": "🖼️",
+            "audioKey": "quince",
+            "sentence": "La parola quince inizia con Q."
+          },
+          {
+            "word": "querina",
+            "upper": "QUERINA",
+            "image": "🖼️",
+            "audioKey": "querina",
+            "sentence": "La parola querina inizia con Q."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "quinoa",
+            "upper": "QUINOA",
+            "image": "🖼️",
+            "audioKey": "quinoa",
+            "sentence": "La parola quinoa inizia con Q."
+          },
+          {
+            "word": "quenelle",
+            "upper": "QUENELLE",
+            "image": "🖼️",
+            "audioKey": "quenelle",
+            "sentence": "La parola quenelle inizia con Q."
+          },
+          {
+            "word": "quark",
+            "upper": "QUARK",
+            "image": "🖼️",
+            "audioKey": "quark",
+            "sentence": "La parola quark inizia con Q."
+          },
+          {
+            "word": "quattro stagioni",
+            "upper": "QUATTRO STAGIONI",
+            "image": "🖼️",
+            "audioKey": "quattro stagioni",
+            "sentence": "La parola quattro stagioni inizia con Q."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "quaderno",
+            "upper": "QUADERNO",
+            "image": "🖼️",
+            "audioKey": "quaderno",
+            "sentence": "La parola quaderno inizia con Q."
+          },
+          {
+            "word": "quadro",
+            "upper": "QUADRO",
+            "image": "🖼️",
+            "audioKey": "quadro",
+            "sentence": "La parola quadro inizia con Q."
+          },
+          {
+            "word": "quadrante",
+            "upper": "QUADRANTE",
+            "image": "🖼️",
+            "audioKey": "quadrante",
+            "sentence": "La parola quadrante inizia con Q."
+          },
+          {
+            "word": "quattro",
+            "upper": "QUATTRO",
+            "image": "🖼️",
+            "audioKey": "quattro",
+            "sentence": "La parola quattro inizia con Q."
+          }
+        ]
+      },
+      "storybook": "Q come quaglia: una piccola storia allegra per ricordare la lettera."
+    },
+    "Z": {
+      "letter": "Z",
+      "lower": "z",
+      "categories": {
+        "animali": [
+          {
+            "word": "zebra",
+            "upper": "ZEBRA",
+            "image": "🖼️",
+            "audioKey": "zebra",
+            "sentence": "La parola zebra inizia con Z."
+          },
+          {
+            "word": "zanzara",
+            "upper": "ZANZARA",
+            "image": "🖼️",
+            "audioKey": "zanzara",
+            "sentence": "La parola zanzara inizia con Z."
+          },
+          {
+            "word": "zibellino",
+            "upper": "ZIBELLINO",
+            "image": "🖼️",
+            "audioKey": "zibellino",
+            "sentence": "La parola zibellino inizia con Z."
+          },
+          {
+            "word": "zozzo",
+            "upper": "ZOZZO",
+            "image": "🖼️",
+            "audioKey": "zozzo",
+            "sentence": "La parola zozzo inizia con Z."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "zoologo",
+            "upper": "ZOOLOGO",
+            "image": "🖼️",
+            "audioKey": "zoologo",
+            "sentence": "La parola zoologo inizia con Z."
+          },
+          {
+            "word": "zappatore",
+            "upper": "ZAPPATORE",
+            "image": "🖼️",
+            "audioKey": "zappatore",
+            "sentence": "La parola zappatore inizia con Z."
+          },
+          {
+            "word": "zincografo",
+            "upper": "ZINCOGRAFO",
+            "image": "🖼️",
+            "audioKey": "zincografo",
+            "sentence": "La parola zincografo inizia con Z."
+          },
+          {
+            "word": "zootecnico",
+            "upper": "ZOOTECNICO",
+            "image": "🖼️",
+            "audioKey": "zootecnico",
+            "sentence": "La parola zootecnico inizia con Z."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "ziziphus",
+            "upper": "ZIZIPHUS",
+            "image": "🖼️",
+            "audioKey": "ziziphus",
+            "sentence": "La parola ziziphus inizia con Z."
+          },
+          {
+            "word": "zucchino frutto",
+            "upper": "ZUCCHINO FRUTTO",
+            "image": "🖼️",
+            "audioKey": "zucchino frutto",
+            "sentence": "La parola zucchino frutto inizia con Z."
+          },
+          {
+            "word": "zibibbo",
+            "upper": "ZIBIBBO",
+            "image": "🖼️",
+            "audioKey": "zibibbo",
+            "sentence": "La parola zibibbo inizia con Z."
+          },
+          {
+            "word": "zucca",
+            "upper": "ZUCCA",
+            "image": "🖼️",
+            "audioKey": "zucca",
+            "sentence": "La parola zucca inizia con Z."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "zucchina",
+            "upper": "ZUCCHINA",
+            "image": "🖼️",
+            "audioKey": "zucchina",
+            "sentence": "La parola zucchina inizia con Z."
+          },
+          {
+            "word": "zenzero",
+            "upper": "ZENZERO",
+            "image": "🖼️",
+            "audioKey": "zenzero",
+            "sentence": "La parola zenzero inizia con Z."
+          },
+          {
+            "word": "zabaione",
+            "upper": "ZABAIONE",
+            "image": "🖼️",
+            "audioKey": "zabaione",
+            "sentence": "La parola zabaione inizia con Z."
+          },
+          {
+            "word": "zuppa",
+            "upper": "ZUPPA",
+            "image": "🖼️",
+            "audioKey": "zuppa",
+            "sentence": "La parola zuppa inizia con Z."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "zaino",
+            "upper": "ZAINO",
+            "image": "🖼️",
+            "audioKey": "zaino",
+            "sentence": "La parola zaino inizia con Z."
+          },
+          {
+            "word": "zerbino",
+            "upper": "ZERBINO",
+            "image": "🖼️",
+            "audioKey": "zerbino",
+            "sentence": "La parola zerbino inizia con Z."
+          },
+          {
+            "word": "zappa",
+            "upper": "ZAPPA",
+            "image": "🖼️",
+            "audioKey": "zappa",
+            "sentence": "La parola zappa inizia con Z."
+          },
+          {
+            "word": "zattera",
+            "upper": "ZATTERA",
+            "image": "🖼️",
+            "audioKey": "zattera",
+            "sentence": "La parola zattera inizia con Z."
+          }
+        ]
+      },
+      "storybook": "Z come zebra: una piccola storia allegra per ricordare la lettera."
+    },
+    "F": {
+      "letter": "F",
+      "lower": "f",
+      "categories": {
+        "animali": [
+          {
+            "word": "fane",
+            "upper": "FANE",
+            "image": "🖼️",
+            "audioKey": "fane",
+            "sentence": "La parola fane inizia con F."
+          },
+          {
+            "word": "favallo",
+            "upper": "FAVALLO",
+            "image": "🖼️",
+            "audioKey": "favallo",
+            "sentence": "La parola favallo inizia con F."
+          },
+          {
+            "word": "foniglio",
+            "upper": "FONIGLIO",
+            "image": "🖼️",
+            "audioKey": "foniglio",
+            "sentence": "La parola foniglio inizia con F."
+          },
+          {
+            "word": "fervo",
+            "upper": "FERVO",
+            "image": "🖼️",
+            "audioKey": "fervo",
+            "sentence": "La parola fervo inizia con F."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "fuoco",
+            "upper": "FUOCO",
+            "image": "🖼️",
+            "audioKey": "fuoco",
+            "sentence": "La parola fuoco inizia con F."
+          },
+          {
+            "word": "fontadino",
+            "upper": "FONTADINO",
+            "image": "🖼️",
+            "audioKey": "fontadino",
+            "sentence": "La parola fontadino inizia con F."
+          },
+          {
+            "word": "fentista",
+            "upper": "FENTISTA",
+            "image": "🖼️",
+            "audioKey": "fentista",
+            "sentence": "La parola fentista inizia con F."
+          },
+          {
+            "word": "fusicista",
+            "upper": "FUSICISTA",
+            "image": "🖼️",
+            "audioKey": "fusicista",
+            "sentence": "La parola fusicista inizia con F."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "fela",
+            "upper": "FELA",
+            "image": "🖼️",
+            "audioKey": "fela",
+            "sentence": "La parola fela inizia con F."
+          },
+          {
+            "word": "fera",
+            "upper": "FERA",
+            "image": "🖼️",
+            "audioKey": "fera",
+            "sentence": "La parola fera inizia con F."
+          },
+          {
+            "word": "ficco",
+            "upper": "FICCO",
+            "image": "🖼️",
+            "audioKey": "ficco",
+            "sentence": "La parola ficco inizia con F."
+          },
+          {
+            "word": "friegia",
+            "upper": "FRIEGIA",
+            "image": "🖼️",
+            "audioKey": "friegia",
+            "sentence": "La parola friegia inizia con F."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "farota",
+            "upper": "FAROTA",
+            "image": "🖼️",
+            "audioKey": "farota",
+            "sentence": "La parola farota inizia con F."
+          },
+          {
+            "word": "fane",
+            "upper": "FANE",
+            "image": "🖼️",
+            "audioKey": "fane",
+            "sentence": "La parola fane inizia con F."
+          },
+          {
+            "word": "fasta",
+            "upper": "FASTA",
+            "image": "🖼️",
+            "audioKey": "fasta",
+            "sentence": "La parola fasta inizia con F."
+          },
+          {
+            "word": "fiso",
+            "upper": "FISO",
+            "image": "🖼️",
+            "audioKey": "fiso",
+            "sentence": "La parola fiso inizia con F."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "fasa",
+            "upper": "FASA",
+            "image": "🖼️",
+            "audioKey": "fasa",
+            "sentence": "La parola fasa inizia con F."
+          },
+          {
+            "word": "fappello",
+            "upper": "FAPPELLO",
+            "image": "🖼️",
+            "audioKey": "fappello",
+            "sentence": "La parola fappello inizia con F."
+          },
+          {
+            "word": "fibro",
+            "upper": "FIBRO",
+            "image": "🖼️",
+            "audioKey": "fibro",
+            "sentence": "La parola fibro inizia con F."
+          },
+          {
+            "word": "favolo",
+            "upper": "FAVOLO",
+            "image": "🖼️",
+            "audioKey": "favolo",
+            "sentence": "La parola favolo inizia con F."
+          }
+        ]
+      },
+      "storybook": "F come fane: una piccola storia allegra per ricordare la lettera."
+    },
+    "G": {
+      "letter": "G",
+      "lower": "g",
+      "categories": {
+        "animali": [
+          {
+            "word": "gane",
+            "upper": "GANE",
+            "image": "🖼️",
+            "audioKey": "gane",
+            "sentence": "La parola gane inizia con G."
+          },
+          {
+            "word": "gavallo",
+            "upper": "GAVALLO",
+            "image": "🖼️",
+            "audioKey": "gavallo",
+            "sentence": "La parola gavallo inizia con G."
+          },
+          {
+            "word": "goniglio",
+            "upper": "GONIGLIO",
+            "image": "🖼️",
+            "audioKey": "goniglio",
+            "sentence": "La parola goniglio inizia con G."
+          },
+          {
+            "word": "gervo",
+            "upper": "GERVO",
+            "image": "🖼️",
+            "audioKey": "gervo",
+            "sentence": "La parola gervo inizia con G."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "guoco",
+            "upper": "GUOCO",
+            "image": "🖼️",
+            "audioKey": "guoco",
+            "sentence": "La parola guoco inizia con G."
+          },
+          {
+            "word": "gontadino",
+            "upper": "GONTADINO",
+            "image": "🖼️",
+            "audioKey": "gontadino",
+            "sentence": "La parola gontadino inizia con G."
+          },
+          {
+            "word": "gentista",
+            "upper": "GENTISTA",
+            "image": "🖼️",
+            "audioKey": "gentista",
+            "sentence": "La parola gentista inizia con G."
+          },
+          {
+            "word": "gusicista",
+            "upper": "GUSICISTA",
+            "image": "🖼️",
+            "audioKey": "gusicista",
+            "sentence": "La parola gusicista inizia con G."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "gela",
+            "upper": "GELA",
+            "image": "🖼️",
+            "audioKey": "gela",
+            "sentence": "La parola gela inizia con G."
+          },
+          {
+            "word": "gera",
+            "upper": "GERA",
+            "image": "🖼️",
+            "audioKey": "gera",
+            "sentence": "La parola gera inizia con G."
+          },
+          {
+            "word": "gicco",
+            "upper": "GICCO",
+            "image": "🖼️",
+            "audioKey": "gicco",
+            "sentence": "La parola gicco inizia con G."
+          },
+          {
+            "word": "griegia",
+            "upper": "GRIEGIA",
+            "image": "🖼️",
+            "audioKey": "griegia",
+            "sentence": "La parola griegia inizia con G."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "garota",
+            "upper": "GAROTA",
+            "image": "🖼️",
+            "audioKey": "garota",
+            "sentence": "La parola garota inizia con G."
+          },
+          {
+            "word": "gane",
+            "upper": "GANE",
+            "image": "🖼️",
+            "audioKey": "gane",
+            "sentence": "La parola gane inizia con G."
+          },
+          {
+            "word": "gasta",
+            "upper": "GASTA",
+            "image": "🖼️",
+            "audioKey": "gasta",
+            "sentence": "La parola gasta inizia con G."
+          },
+          {
+            "word": "giso",
+            "upper": "GISO",
+            "image": "🖼️",
+            "audioKey": "giso",
+            "sentence": "La parola giso inizia con G."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "gasa",
+            "upper": "GASA",
+            "image": "🖼️",
+            "audioKey": "gasa",
+            "sentence": "La parola gasa inizia con G."
+          },
+          {
+            "word": "gappello",
+            "upper": "GAPPELLO",
+            "image": "🖼️",
+            "audioKey": "gappello",
+            "sentence": "La parola gappello inizia con G."
+          },
+          {
+            "word": "gibro",
+            "upper": "GIBRO",
+            "image": "🖼️",
+            "audioKey": "gibro",
+            "sentence": "La parola gibro inizia con G."
+          },
+          {
+            "word": "gavolo",
+            "upper": "GAVOLO",
+            "image": "🖼️",
+            "audioKey": "gavolo",
+            "sentence": "La parola gavolo inizia con G."
+          }
+        ]
+      },
+      "storybook": "G come gane: una piccola storia allegra per ricordare la lettera."
+    },
+    "I": {
+      "letter": "I",
+      "lower": "i",
+      "categories": {
+        "animali": [
+          {
+            "word": "iane",
+            "upper": "IANE",
+            "image": "🖼️",
+            "audioKey": "iane",
+            "sentence": "La parola iane inizia con I."
+          },
+          {
+            "word": "iavallo",
+            "upper": "IAVALLO",
+            "image": "🖼️",
+            "audioKey": "iavallo",
+            "sentence": "La parola iavallo inizia con I."
+          },
+          {
+            "word": "ioniglio",
+            "upper": "IONIGLIO",
+            "image": "🖼️",
+            "audioKey": "ioniglio",
+            "sentence": "La parola ioniglio inizia con I."
+          },
+          {
+            "word": "iervo",
+            "upper": "IERVO",
+            "image": "🖼️",
+            "audioKey": "iervo",
+            "sentence": "La parola iervo inizia con I."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "iuoco",
+            "upper": "IUOCO",
+            "image": "🖼️",
+            "audioKey": "iuoco",
+            "sentence": "La parola iuoco inizia con I."
+          },
+          {
+            "word": "iontadino",
+            "upper": "IONTADINO",
+            "image": "🖼️",
+            "audioKey": "iontadino",
+            "sentence": "La parola iontadino inizia con I."
+          },
+          {
+            "word": "ientista",
+            "upper": "IENTISTA",
+            "image": "🖼️",
+            "audioKey": "ientista",
+            "sentence": "La parola ientista inizia con I."
+          },
+          {
+            "word": "iusicista",
+            "upper": "IUSICISTA",
+            "image": "🖼️",
+            "audioKey": "iusicista",
+            "sentence": "La parola iusicista inizia con I."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "iela",
+            "upper": "IELA",
+            "image": "🖼️",
+            "audioKey": "iela",
+            "sentence": "La parola iela inizia con I."
+          },
+          {
+            "word": "iera",
+            "upper": "IERA",
+            "image": "🖼️",
+            "audioKey": "iera",
+            "sentence": "La parola iera inizia con I."
+          },
+          {
+            "word": "iicco",
+            "upper": "IICCO",
+            "image": "🖼️",
+            "audioKey": "iicco",
+            "sentence": "La parola iicco inizia con I."
+          },
+          {
+            "word": "iriegia",
+            "upper": "IRIEGIA",
+            "image": "🖼️",
+            "audioKey": "iriegia",
+            "sentence": "La parola iriegia inizia con I."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "iarota",
+            "upper": "IAROTA",
+            "image": "🖼️",
+            "audioKey": "iarota",
+            "sentence": "La parola iarota inizia con I."
+          },
+          {
+            "word": "iane",
+            "upper": "IANE",
+            "image": "🖼️",
+            "audioKey": "iane",
+            "sentence": "La parola iane inizia con I."
+          },
+          {
+            "word": "iasta",
+            "upper": "IASTA",
+            "image": "🖼️",
+            "audioKey": "iasta",
+            "sentence": "La parola iasta inizia con I."
+          },
+          {
+            "word": "iiso",
+            "upper": "IISO",
+            "image": "🖼️",
+            "audioKey": "iiso",
+            "sentence": "La parola iiso inizia con I."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "iasa",
+            "upper": "IASA",
+            "image": "🖼️",
+            "audioKey": "iasa",
+            "sentence": "La parola iasa inizia con I."
+          },
+          {
+            "word": "iappello",
+            "upper": "IAPPELLO",
+            "image": "🖼️",
+            "audioKey": "iappello",
+            "sentence": "La parola iappello inizia con I."
+          },
+          {
+            "word": "iibro",
+            "upper": "IIBRO",
+            "image": "🖼️",
+            "audioKey": "iibro",
+            "sentence": "La parola iibro inizia con I."
+          },
+          {
+            "word": "iavolo",
+            "upper": "IAVOLO",
+            "image": "🖼️",
+            "audioKey": "iavolo",
+            "sentence": "La parola iavolo inizia con I."
+          }
+        ]
+      },
+      "storybook": "I come iane: una piccola storia allegra per ricordare la lettera."
+    },
+    "L": {
+      "letter": "L",
+      "lower": "l",
+      "categories": {
+        "animali": [
+          {
+            "word": "lane",
+            "upper": "LANE",
+            "image": "🖼️",
+            "audioKey": "lane",
+            "sentence": "La parola lane inizia con L."
+          },
+          {
+            "word": "lavallo",
+            "upper": "LAVALLO",
+            "image": "🖼️",
+            "audioKey": "lavallo",
+            "sentence": "La parola lavallo inizia con L."
+          },
+          {
+            "word": "loniglio",
+            "upper": "LONIGLIO",
+            "image": "🖼️",
+            "audioKey": "loniglio",
+            "sentence": "La parola loniglio inizia con L."
+          },
+          {
+            "word": "lervo",
+            "upper": "LERVO",
+            "image": "🖼️",
+            "audioKey": "lervo",
+            "sentence": "La parola lervo inizia con L."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "luoco",
+            "upper": "LUOCO",
+            "image": "🖼️",
+            "audioKey": "luoco",
+            "sentence": "La parola luoco inizia con L."
+          },
+          {
+            "word": "lontadino",
+            "upper": "LONTADINO",
+            "image": "🖼️",
+            "audioKey": "lontadino",
+            "sentence": "La parola lontadino inizia con L."
+          },
+          {
+            "word": "lentista",
+            "upper": "LENTISTA",
+            "image": "🖼️",
+            "audioKey": "lentista",
+            "sentence": "La parola lentista inizia con L."
+          },
+          {
+            "word": "lusicista",
+            "upper": "LUSICISTA",
+            "image": "🖼️",
+            "audioKey": "lusicista",
+            "sentence": "La parola lusicista inizia con L."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "lela",
+            "upper": "LELA",
+            "image": "🖼️",
+            "audioKey": "lela",
+            "sentence": "La parola lela inizia con L."
+          },
+          {
+            "word": "lera",
+            "upper": "LERA",
+            "image": "🖼️",
+            "audioKey": "lera",
+            "sentence": "La parola lera inizia con L."
+          },
+          {
+            "word": "licco",
+            "upper": "LICCO",
+            "image": "🖼️",
+            "audioKey": "licco",
+            "sentence": "La parola licco inizia con L."
+          },
+          {
+            "word": "lriegia",
+            "upper": "LRIEGIA",
+            "image": "🖼️",
+            "audioKey": "lriegia",
+            "sentence": "La parola lriegia inizia con L."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "larota",
+            "upper": "LAROTA",
+            "image": "🖼️",
+            "audioKey": "larota",
+            "sentence": "La parola larota inizia con L."
+          },
+          {
+            "word": "lane",
+            "upper": "LANE",
+            "image": "🖼️",
+            "audioKey": "lane",
+            "sentence": "La parola lane inizia con L."
+          },
+          {
+            "word": "lasta",
+            "upper": "LASTA",
+            "image": "🖼️",
+            "audioKey": "lasta",
+            "sentence": "La parola lasta inizia con L."
+          },
+          {
+            "word": "liso",
+            "upper": "LISO",
+            "image": "🖼️",
+            "audioKey": "liso",
+            "sentence": "La parola liso inizia con L."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "lasa",
+            "upper": "LASA",
+            "image": "🖼️",
+            "audioKey": "lasa",
+            "sentence": "La parola lasa inizia con L."
+          },
+          {
+            "word": "lappello",
+            "upper": "LAPPELLO",
+            "image": "🖼️",
+            "audioKey": "lappello",
+            "sentence": "La parola lappello inizia con L."
+          },
+          {
+            "word": "libro",
+            "upper": "LIBRO",
+            "image": "🖼️",
+            "audioKey": "libro",
+            "sentence": "La parola libro inizia con L."
+          },
+          {
+            "word": "lavolo",
+            "upper": "LAVOLO",
+            "image": "🖼️",
+            "audioKey": "lavolo",
+            "sentence": "La parola lavolo inizia con L."
+          }
+        ]
+      },
+      "storybook": "L come lane: una piccola storia allegra per ricordare la lettera."
+    },
+    "M": {
+      "letter": "M",
+      "lower": "m",
+      "categories": {
+        "animali": [
+          {
+            "word": "mane",
+            "upper": "MANE",
+            "image": "🖼️",
+            "audioKey": "mane",
+            "sentence": "La parola mane inizia con M."
+          },
+          {
+            "word": "mavallo",
+            "upper": "MAVALLO",
+            "image": "🖼️",
+            "audioKey": "mavallo",
+            "sentence": "La parola mavallo inizia con M."
+          },
+          {
+            "word": "moniglio",
+            "upper": "MONIGLIO",
+            "image": "🖼️",
+            "audioKey": "moniglio",
+            "sentence": "La parola moniglio inizia con M."
+          },
+          {
+            "word": "mervo",
+            "upper": "MERVO",
+            "image": "🖼️",
+            "audioKey": "mervo",
+            "sentence": "La parola mervo inizia con M."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "muoco",
+            "upper": "MUOCO",
+            "image": "🖼️",
+            "audioKey": "muoco",
+            "sentence": "La parola muoco inizia con M."
+          },
+          {
+            "word": "montadino",
+            "upper": "MONTADINO",
+            "image": "🖼️",
+            "audioKey": "montadino",
+            "sentence": "La parola montadino inizia con M."
+          },
+          {
+            "word": "mentista",
+            "upper": "MENTISTA",
+            "image": "🖼️",
+            "audioKey": "mentista",
+            "sentence": "La parola mentista inizia con M."
+          },
+          {
+            "word": "musicista",
+            "upper": "MUSICISTA",
+            "image": "🖼️",
+            "audioKey": "musicista",
+            "sentence": "La parola musicista inizia con M."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "mela",
+            "upper": "MELA",
+            "image": "🖼️",
+            "audioKey": "mela",
+            "sentence": "La parola mela inizia con M."
+          },
+          {
+            "word": "mera",
+            "upper": "MERA",
+            "image": "🖼️",
+            "audioKey": "mera",
+            "sentence": "La parola mera inizia con M."
+          },
+          {
+            "word": "micco",
+            "upper": "MICCO",
+            "image": "🖼️",
+            "audioKey": "micco",
+            "sentence": "La parola micco inizia con M."
+          },
+          {
+            "word": "mriegia",
+            "upper": "MRIEGIA",
+            "image": "🖼️",
+            "audioKey": "mriegia",
+            "sentence": "La parola mriegia inizia con M."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "marota",
+            "upper": "MAROTA",
+            "image": "🖼️",
+            "audioKey": "marota",
+            "sentence": "La parola marota inizia con M."
+          },
+          {
+            "word": "mane",
+            "upper": "MANE",
+            "image": "🖼️",
+            "audioKey": "mane",
+            "sentence": "La parola mane inizia con M."
+          },
+          {
+            "word": "masta",
+            "upper": "MASTA",
+            "image": "🖼️",
+            "audioKey": "masta",
+            "sentence": "La parola masta inizia con M."
+          },
+          {
+            "word": "miso",
+            "upper": "MISO",
+            "image": "🖼️",
+            "audioKey": "miso",
+            "sentence": "La parola miso inizia con M."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "masa",
+            "upper": "MASA",
+            "image": "🖼️",
+            "audioKey": "masa",
+            "sentence": "La parola masa inizia con M."
+          },
+          {
+            "word": "mappello",
+            "upper": "MAPPELLO",
+            "image": "🖼️",
+            "audioKey": "mappello",
+            "sentence": "La parola mappello inizia con M."
+          },
+          {
+            "word": "mibro",
+            "upper": "MIBRO",
+            "image": "🖼️",
+            "audioKey": "mibro",
+            "sentence": "La parola mibro inizia con M."
+          },
+          {
+            "word": "mavolo",
+            "upper": "MAVOLO",
+            "image": "🖼️",
+            "audioKey": "mavolo",
+            "sentence": "La parola mavolo inizia con M."
+          }
+        ]
+      },
+      "storybook": "M come mane: una piccola storia allegra per ricordare la lettera."
+    },
+    "N": {
+      "letter": "N",
+      "lower": "n",
+      "categories": {
+        "animali": [
+          {
+            "word": "nane",
+            "upper": "NANE",
+            "image": "🖼️",
+            "audioKey": "nane",
+            "sentence": "La parola nane inizia con N."
+          },
+          {
+            "word": "navallo",
+            "upper": "NAVALLO",
+            "image": "🖼️",
+            "audioKey": "navallo",
+            "sentence": "La parola navallo inizia con N."
+          },
+          {
+            "word": "noniglio",
+            "upper": "NONIGLIO",
+            "image": "🖼️",
+            "audioKey": "noniglio",
+            "sentence": "La parola noniglio inizia con N."
+          },
+          {
+            "word": "nervo",
+            "upper": "NERVO",
+            "image": "🖼️",
+            "audioKey": "nervo",
+            "sentence": "La parola nervo inizia con N."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "nuoco",
+            "upper": "NUOCO",
+            "image": "🖼️",
+            "audioKey": "nuoco",
+            "sentence": "La parola nuoco inizia con N."
+          },
+          {
+            "word": "nontadino",
+            "upper": "NONTADINO",
+            "image": "🖼️",
+            "audioKey": "nontadino",
+            "sentence": "La parola nontadino inizia con N."
+          },
+          {
+            "word": "nentista",
+            "upper": "NENTISTA",
+            "image": "🖼️",
+            "audioKey": "nentista",
+            "sentence": "La parola nentista inizia con N."
+          },
+          {
+            "word": "nusicista",
+            "upper": "NUSICISTA",
+            "image": "🖼️",
+            "audioKey": "nusicista",
+            "sentence": "La parola nusicista inizia con N."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "nela",
+            "upper": "NELA",
+            "image": "🖼️",
+            "audioKey": "nela",
+            "sentence": "La parola nela inizia con N."
+          },
+          {
+            "word": "nera",
+            "upper": "NERA",
+            "image": "🖼️",
+            "audioKey": "nera",
+            "sentence": "La parola nera inizia con N."
+          },
+          {
+            "word": "nicco",
+            "upper": "NICCO",
+            "image": "🖼️",
+            "audioKey": "nicco",
+            "sentence": "La parola nicco inizia con N."
+          },
+          {
+            "word": "nriegia",
+            "upper": "NRIEGIA",
+            "image": "🖼️",
+            "audioKey": "nriegia",
+            "sentence": "La parola nriegia inizia con N."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "narota",
+            "upper": "NAROTA",
+            "image": "🖼️",
+            "audioKey": "narota",
+            "sentence": "La parola narota inizia con N."
+          },
+          {
+            "word": "nane",
+            "upper": "NANE",
+            "image": "🖼️",
+            "audioKey": "nane",
+            "sentence": "La parola nane inizia con N."
+          },
+          {
+            "word": "nasta",
+            "upper": "NASTA",
+            "image": "🖼️",
+            "audioKey": "nasta",
+            "sentence": "La parola nasta inizia con N."
+          },
+          {
+            "word": "niso",
+            "upper": "NISO",
+            "image": "🖼️",
+            "audioKey": "niso",
+            "sentence": "La parola niso inizia con N."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "nasa",
+            "upper": "NASA",
+            "image": "🖼️",
+            "audioKey": "nasa",
+            "sentence": "La parola nasa inizia con N."
+          },
+          {
+            "word": "nappello",
+            "upper": "NAPPELLO",
+            "image": "🖼️",
+            "audioKey": "nappello",
+            "sentence": "La parola nappello inizia con N."
+          },
+          {
+            "word": "nibro",
+            "upper": "NIBRO",
+            "image": "🖼️",
+            "audioKey": "nibro",
+            "sentence": "La parola nibro inizia con N."
+          },
+          {
+            "word": "navolo",
+            "upper": "NAVOLO",
+            "image": "🖼️",
+            "audioKey": "navolo",
+            "sentence": "La parola navolo inizia con N."
+          }
+        ]
+      },
+      "storybook": "N come nane: una piccola storia allegra per ricordare la lettera."
+    },
+    "O": {
+      "letter": "O",
+      "lower": "o",
+      "categories": {
+        "animali": [
+          {
+            "word": "oane",
+            "upper": "OANE",
+            "image": "🖼️",
+            "audioKey": "oane",
+            "sentence": "La parola oane inizia con O."
+          },
+          {
+            "word": "oavallo",
+            "upper": "OAVALLO",
+            "image": "🖼️",
+            "audioKey": "oavallo",
+            "sentence": "La parola oavallo inizia con O."
+          },
+          {
+            "word": "ooniglio",
+            "upper": "OONIGLIO",
+            "image": "🖼️",
+            "audioKey": "ooniglio",
+            "sentence": "La parola ooniglio inizia con O."
+          },
+          {
+            "word": "oervo",
+            "upper": "OERVO",
+            "image": "🖼️",
+            "audioKey": "oervo",
+            "sentence": "La parola oervo inizia con O."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "ouoco",
+            "upper": "OUOCO",
+            "image": "🖼️",
+            "audioKey": "ouoco",
+            "sentence": "La parola ouoco inizia con O."
+          },
+          {
+            "word": "oontadino",
+            "upper": "OONTADINO",
+            "image": "🖼️",
+            "audioKey": "oontadino",
+            "sentence": "La parola oontadino inizia con O."
+          },
+          {
+            "word": "oentista",
+            "upper": "OENTISTA",
+            "image": "🖼️",
+            "audioKey": "oentista",
+            "sentence": "La parola oentista inizia con O."
+          },
+          {
+            "word": "ousicista",
+            "upper": "OUSICISTA",
+            "image": "🖼️",
+            "audioKey": "ousicista",
+            "sentence": "La parola ousicista inizia con O."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "oela",
+            "upper": "OELA",
+            "image": "🖼️",
+            "audioKey": "oela",
+            "sentence": "La parola oela inizia con O."
+          },
+          {
+            "word": "oera",
+            "upper": "OERA",
+            "image": "🖼️",
+            "audioKey": "oera",
+            "sentence": "La parola oera inizia con O."
+          },
+          {
+            "word": "oicco",
+            "upper": "OICCO",
+            "image": "🖼️",
+            "audioKey": "oicco",
+            "sentence": "La parola oicco inizia con O."
+          },
+          {
+            "word": "oriegia",
+            "upper": "ORIEGIA",
+            "image": "🖼️",
+            "audioKey": "oriegia",
+            "sentence": "La parola oriegia inizia con O."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "oarota",
+            "upper": "OAROTA",
+            "image": "🖼️",
+            "audioKey": "oarota",
+            "sentence": "La parola oarota inizia con O."
+          },
+          {
+            "word": "oane",
+            "upper": "OANE",
+            "image": "🖼️",
+            "audioKey": "oane",
+            "sentence": "La parola oane inizia con O."
+          },
+          {
+            "word": "oasta",
+            "upper": "OASTA",
+            "image": "🖼️",
+            "audioKey": "oasta",
+            "sentence": "La parola oasta inizia con O."
+          },
+          {
+            "word": "oiso",
+            "upper": "OISO",
+            "image": "🖼️",
+            "audioKey": "oiso",
+            "sentence": "La parola oiso inizia con O."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "oasa",
+            "upper": "OASA",
+            "image": "🖼️",
+            "audioKey": "oasa",
+            "sentence": "La parola oasa inizia con O."
+          },
+          {
+            "word": "oappello",
+            "upper": "OAPPELLO",
+            "image": "🖼️",
+            "audioKey": "oappello",
+            "sentence": "La parola oappello inizia con O."
+          },
+          {
+            "word": "oibro",
+            "upper": "OIBRO",
+            "image": "🖼️",
+            "audioKey": "oibro",
+            "sentence": "La parola oibro inizia con O."
+          },
+          {
+            "word": "oavolo",
+            "upper": "OAVOLO",
+            "image": "🖼️",
+            "audioKey": "oavolo",
+            "sentence": "La parola oavolo inizia con O."
+          }
+        ]
+      },
+      "storybook": "O come oane: una piccola storia allegra per ricordare la lettera."
+    },
+    "P": {
+      "letter": "P",
+      "lower": "p",
+      "categories": {
+        "animali": [
+          {
+            "word": "pane",
+            "upper": "PANE",
+            "image": "🖼️",
+            "audioKey": "pane",
+            "sentence": "La parola pane inizia con P."
+          },
+          {
+            "word": "pavallo",
+            "upper": "PAVALLO",
+            "image": "🖼️",
+            "audioKey": "pavallo",
+            "sentence": "La parola pavallo inizia con P."
+          },
+          {
+            "word": "poniglio",
+            "upper": "PONIGLIO",
+            "image": "🖼️",
+            "audioKey": "poniglio",
+            "sentence": "La parola poniglio inizia con P."
+          },
+          {
+            "word": "pervo",
+            "upper": "PERVO",
+            "image": "🖼️",
+            "audioKey": "pervo",
+            "sentence": "La parola pervo inizia con P."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "puoco",
+            "upper": "PUOCO",
+            "image": "🖼️",
+            "audioKey": "puoco",
+            "sentence": "La parola puoco inizia con P."
+          },
+          {
+            "word": "pontadino",
+            "upper": "PONTADINO",
+            "image": "🖼️",
+            "audioKey": "pontadino",
+            "sentence": "La parola pontadino inizia con P."
+          },
+          {
+            "word": "pentista",
+            "upper": "PENTISTA",
+            "image": "🖼️",
+            "audioKey": "pentista",
+            "sentence": "La parola pentista inizia con P."
+          },
+          {
+            "word": "pusicista",
+            "upper": "PUSICISTA",
+            "image": "🖼️",
+            "audioKey": "pusicista",
+            "sentence": "La parola pusicista inizia con P."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "pela",
+            "upper": "PELA",
+            "image": "🖼️",
+            "audioKey": "pela",
+            "sentence": "La parola pela inizia con P."
+          },
+          {
+            "word": "pera",
+            "upper": "PERA",
+            "image": "🖼️",
+            "audioKey": "pera",
+            "sentence": "La parola pera inizia con P."
+          },
+          {
+            "word": "picco",
+            "upper": "PICCO",
+            "image": "🖼️",
+            "audioKey": "picco",
+            "sentence": "La parola picco inizia con P."
+          },
+          {
+            "word": "priegia",
+            "upper": "PRIEGIA",
+            "image": "🖼️",
+            "audioKey": "priegia",
+            "sentence": "La parola priegia inizia con P."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "parota",
+            "upper": "PAROTA",
+            "image": "🖼️",
+            "audioKey": "parota",
+            "sentence": "La parola parota inizia con P."
+          },
+          {
+            "word": "pane",
+            "upper": "PANE",
+            "image": "🖼️",
+            "audioKey": "pane",
+            "sentence": "La parola pane inizia con P."
+          },
+          {
+            "word": "pasta",
+            "upper": "PASTA",
+            "image": "🖼️",
+            "audioKey": "pasta",
+            "sentence": "La parola pasta inizia con P."
+          },
+          {
+            "word": "piso",
+            "upper": "PISO",
+            "image": "🖼️",
+            "audioKey": "piso",
+            "sentence": "La parola piso inizia con P."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "pasa",
+            "upper": "PASA",
+            "image": "🖼️",
+            "audioKey": "pasa",
+            "sentence": "La parola pasa inizia con P."
+          },
+          {
+            "word": "pappello",
+            "upper": "PAPPELLO",
+            "image": "🖼️",
+            "audioKey": "pappello",
+            "sentence": "La parola pappello inizia con P."
+          },
+          {
+            "word": "pibro",
+            "upper": "PIBRO",
+            "image": "🖼️",
+            "audioKey": "pibro",
+            "sentence": "La parola pibro inizia con P."
+          },
+          {
+            "word": "pavolo",
+            "upper": "PAVOLO",
+            "image": "🖼️",
+            "audioKey": "pavolo",
+            "sentence": "La parola pavolo inizia con P."
+          }
+        ]
+      },
+      "storybook": "P come pane: una piccola storia allegra per ricordare la lettera."
+    },
+    "R": {
+      "letter": "R",
+      "lower": "r",
+      "categories": {
+        "animali": [
+          {
+            "word": "rane",
+            "upper": "RANE",
+            "image": "🖼️",
+            "audioKey": "rane",
+            "sentence": "La parola rane inizia con R."
+          },
+          {
+            "word": "ravallo",
+            "upper": "RAVALLO",
+            "image": "🖼️",
+            "audioKey": "ravallo",
+            "sentence": "La parola ravallo inizia con R."
+          },
+          {
+            "word": "roniglio",
+            "upper": "RONIGLIO",
+            "image": "🖼️",
+            "audioKey": "roniglio",
+            "sentence": "La parola roniglio inizia con R."
+          },
+          {
+            "word": "rervo",
+            "upper": "RERVO",
+            "image": "🖼️",
+            "audioKey": "rervo",
+            "sentence": "La parola rervo inizia con R."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "ruoco",
+            "upper": "RUOCO",
+            "image": "🖼️",
+            "audioKey": "ruoco",
+            "sentence": "La parola ruoco inizia con R."
+          },
+          {
+            "word": "rontadino",
+            "upper": "RONTADINO",
+            "image": "🖼️",
+            "audioKey": "rontadino",
+            "sentence": "La parola rontadino inizia con R."
+          },
+          {
+            "word": "rentista",
+            "upper": "RENTISTA",
+            "image": "🖼️",
+            "audioKey": "rentista",
+            "sentence": "La parola rentista inizia con R."
+          },
+          {
+            "word": "rusicista",
+            "upper": "RUSICISTA",
+            "image": "🖼️",
+            "audioKey": "rusicista",
+            "sentence": "La parola rusicista inizia con R."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "rela",
+            "upper": "RELA",
+            "image": "🖼️",
+            "audioKey": "rela",
+            "sentence": "La parola rela inizia con R."
+          },
+          {
+            "word": "rera",
+            "upper": "RERA",
+            "image": "🖼️",
+            "audioKey": "rera",
+            "sentence": "La parola rera inizia con R."
+          },
+          {
+            "word": "ricco",
+            "upper": "RICCO",
+            "image": "🖼️",
+            "audioKey": "ricco",
+            "sentence": "La parola ricco inizia con R."
+          },
+          {
+            "word": "rriegia",
+            "upper": "RRIEGIA",
+            "image": "🖼️",
+            "audioKey": "rriegia",
+            "sentence": "La parola rriegia inizia con R."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "rarota",
+            "upper": "RAROTA",
+            "image": "🖼️",
+            "audioKey": "rarota",
+            "sentence": "La parola rarota inizia con R."
+          },
+          {
+            "word": "rane",
+            "upper": "RANE",
+            "image": "🖼️",
+            "audioKey": "rane",
+            "sentence": "La parola rane inizia con R."
+          },
+          {
+            "word": "rasta",
+            "upper": "RASTA",
+            "image": "🖼️",
+            "audioKey": "rasta",
+            "sentence": "La parola rasta inizia con R."
+          },
+          {
+            "word": "riso",
+            "upper": "RISO",
+            "image": "🖼️",
+            "audioKey": "riso",
+            "sentence": "La parola riso inizia con R."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "rasa",
+            "upper": "RASA",
+            "image": "🖼️",
+            "audioKey": "rasa",
+            "sentence": "La parola rasa inizia con R."
+          },
+          {
+            "word": "rappello",
+            "upper": "RAPPELLO",
+            "image": "🖼️",
+            "audioKey": "rappello",
+            "sentence": "La parola rappello inizia con R."
+          },
+          {
+            "word": "ribro",
+            "upper": "RIBRO",
+            "image": "🖼️",
+            "audioKey": "ribro",
+            "sentence": "La parola ribro inizia con R."
+          },
+          {
+            "word": "ravolo",
+            "upper": "RAVOLO",
+            "image": "🖼️",
+            "audioKey": "ravolo",
+            "sentence": "La parola ravolo inizia con R."
+          }
+        ]
+      },
+      "storybook": "R come rane: una piccola storia allegra per ricordare la lettera."
+    },
+    "S": {
+      "letter": "S",
+      "lower": "s",
+      "categories": {
+        "animali": [
+          {
+            "word": "sane",
+            "upper": "SANE",
+            "image": "🖼️",
+            "audioKey": "sane",
+            "sentence": "La parola sane inizia con S."
+          },
+          {
+            "word": "savallo",
+            "upper": "SAVALLO",
+            "image": "🖼️",
+            "audioKey": "savallo",
+            "sentence": "La parola savallo inizia con S."
+          },
+          {
+            "word": "soniglio",
+            "upper": "SONIGLIO",
+            "image": "🖼️",
+            "audioKey": "soniglio",
+            "sentence": "La parola soniglio inizia con S."
+          },
+          {
+            "word": "servo",
+            "upper": "SERVO",
+            "image": "🖼️",
+            "audioKey": "servo",
+            "sentence": "La parola servo inizia con S."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "suoco",
+            "upper": "SUOCO",
+            "image": "🖼️",
+            "audioKey": "suoco",
+            "sentence": "La parola suoco inizia con S."
+          },
+          {
+            "word": "sontadino",
+            "upper": "SONTADINO",
+            "image": "🖼️",
+            "audioKey": "sontadino",
+            "sentence": "La parola sontadino inizia con S."
+          },
+          {
+            "word": "sentista",
+            "upper": "SENTISTA",
+            "image": "🖼️",
+            "audioKey": "sentista",
+            "sentence": "La parola sentista inizia con S."
+          },
+          {
+            "word": "susicista",
+            "upper": "SUSICISTA",
+            "image": "🖼️",
+            "audioKey": "susicista",
+            "sentence": "La parola susicista inizia con S."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "sela",
+            "upper": "SELA",
+            "image": "🖼️",
+            "audioKey": "sela",
+            "sentence": "La parola sela inizia con S."
+          },
+          {
+            "word": "sera",
+            "upper": "SERA",
+            "image": "🖼️",
+            "audioKey": "sera",
+            "sentence": "La parola sera inizia con S."
+          },
+          {
+            "word": "sicco",
+            "upper": "SICCO",
+            "image": "🖼️",
+            "audioKey": "sicco",
+            "sentence": "La parola sicco inizia con S."
+          },
+          {
+            "word": "sriegia",
+            "upper": "SRIEGIA",
+            "image": "🖼️",
+            "audioKey": "sriegia",
+            "sentence": "La parola sriegia inizia con S."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "sarota",
+            "upper": "SAROTA",
+            "image": "🖼️",
+            "audioKey": "sarota",
+            "sentence": "La parola sarota inizia con S."
+          },
+          {
+            "word": "sane",
+            "upper": "SANE",
+            "image": "🖼️",
+            "audioKey": "sane",
+            "sentence": "La parola sane inizia con S."
+          },
+          {
+            "word": "sasta",
+            "upper": "SASTA",
+            "image": "🖼️",
+            "audioKey": "sasta",
+            "sentence": "La parola sasta inizia con S."
+          },
+          {
+            "word": "siso",
+            "upper": "SISO",
+            "image": "🖼️",
+            "audioKey": "siso",
+            "sentence": "La parola siso inizia con S."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "sasa",
+            "upper": "SASA",
+            "image": "🖼️",
+            "audioKey": "sasa",
+            "sentence": "La parola sasa inizia con S."
+          },
+          {
+            "word": "sappello",
+            "upper": "SAPPELLO",
+            "image": "🖼️",
+            "audioKey": "sappello",
+            "sentence": "La parola sappello inizia con S."
+          },
+          {
+            "word": "sibro",
+            "upper": "SIBRO",
+            "image": "🖼️",
+            "audioKey": "sibro",
+            "sentence": "La parola sibro inizia con S."
+          },
+          {
+            "word": "savolo",
+            "upper": "SAVOLO",
+            "image": "🖼️",
+            "audioKey": "savolo",
+            "sentence": "La parola savolo inizia con S."
+          }
+        ]
+      },
+      "storybook": "S come sane: una piccola storia allegra per ricordare la lettera."
+    },
+    "T": {
+      "letter": "T",
+      "lower": "t",
+      "categories": {
+        "animali": [
+          {
+            "word": "tane",
+            "upper": "TANE",
+            "image": "🖼️",
+            "audioKey": "tane",
+            "sentence": "La parola tane inizia con T."
+          },
+          {
+            "word": "tavallo",
+            "upper": "TAVALLO",
+            "image": "🖼️",
+            "audioKey": "tavallo",
+            "sentence": "La parola tavallo inizia con T."
+          },
+          {
+            "word": "toniglio",
+            "upper": "TONIGLIO",
+            "image": "🖼️",
+            "audioKey": "toniglio",
+            "sentence": "La parola toniglio inizia con T."
+          },
+          {
+            "word": "tervo",
+            "upper": "TERVO",
+            "image": "🖼️",
+            "audioKey": "tervo",
+            "sentence": "La parola tervo inizia con T."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "tuoco",
+            "upper": "TUOCO",
+            "image": "🖼️",
+            "audioKey": "tuoco",
+            "sentence": "La parola tuoco inizia con T."
+          },
+          {
+            "word": "tontadino",
+            "upper": "TONTADINO",
+            "image": "🖼️",
+            "audioKey": "tontadino",
+            "sentence": "La parola tontadino inizia con T."
+          },
+          {
+            "word": "tentista",
+            "upper": "TENTISTA",
+            "image": "🖼️",
+            "audioKey": "tentista",
+            "sentence": "La parola tentista inizia con T."
+          },
+          {
+            "word": "tusicista",
+            "upper": "TUSICISTA",
+            "image": "🖼️",
+            "audioKey": "tusicista",
+            "sentence": "La parola tusicista inizia con T."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "tela",
+            "upper": "TELA",
+            "image": "🖼️",
+            "audioKey": "tela",
+            "sentence": "La parola tela inizia con T."
+          },
+          {
+            "word": "tera",
+            "upper": "TERA",
+            "image": "🖼️",
+            "audioKey": "tera",
+            "sentence": "La parola tera inizia con T."
+          },
+          {
+            "word": "ticco",
+            "upper": "TICCO",
+            "image": "🖼️",
+            "audioKey": "ticco",
+            "sentence": "La parola ticco inizia con T."
+          },
+          {
+            "word": "triegia",
+            "upper": "TRIEGIA",
+            "image": "🖼️",
+            "audioKey": "triegia",
+            "sentence": "La parola triegia inizia con T."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "tarota",
+            "upper": "TAROTA",
+            "image": "🖼️",
+            "audioKey": "tarota",
+            "sentence": "La parola tarota inizia con T."
+          },
+          {
+            "word": "tane",
+            "upper": "TANE",
+            "image": "🖼️",
+            "audioKey": "tane",
+            "sentence": "La parola tane inizia con T."
+          },
+          {
+            "word": "tasta",
+            "upper": "TASTA",
+            "image": "🖼️",
+            "audioKey": "tasta",
+            "sentence": "La parola tasta inizia con T."
+          },
+          {
+            "word": "tiso",
+            "upper": "TISO",
+            "image": "🖼️",
+            "audioKey": "tiso",
+            "sentence": "La parola tiso inizia con T."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "tasa",
+            "upper": "TASA",
+            "image": "🖼️",
+            "audioKey": "tasa",
+            "sentence": "La parola tasa inizia con T."
+          },
+          {
+            "word": "tappello",
+            "upper": "TAPPELLO",
+            "image": "🖼️",
+            "audioKey": "tappello",
+            "sentence": "La parola tappello inizia con T."
+          },
+          {
+            "word": "tibro",
+            "upper": "TIBRO",
+            "image": "🖼️",
+            "audioKey": "tibro",
+            "sentence": "La parola tibro inizia con T."
+          },
+          {
+            "word": "tavolo",
+            "upper": "TAVOLO",
+            "image": "🖼️",
+            "audioKey": "tavolo",
+            "sentence": "La parola tavolo inizia con T."
+          }
+        ]
+      },
+      "storybook": "T come tane: una piccola storia allegra per ricordare la lettera."
+    },
+    "U": {
+      "letter": "U",
+      "lower": "u",
+      "categories": {
+        "animali": [
+          {
+            "word": "uane",
+            "upper": "UANE",
+            "image": "🖼️",
+            "audioKey": "uane",
+            "sentence": "La parola uane inizia con U."
+          },
+          {
+            "word": "uavallo",
+            "upper": "UAVALLO",
+            "image": "🖼️",
+            "audioKey": "uavallo",
+            "sentence": "La parola uavallo inizia con U."
+          },
+          {
+            "word": "uoniglio",
+            "upper": "UONIGLIO",
+            "image": "🖼️",
+            "audioKey": "uoniglio",
+            "sentence": "La parola uoniglio inizia con U."
+          },
+          {
+            "word": "uervo",
+            "upper": "UERVO",
+            "image": "🖼️",
+            "audioKey": "uervo",
+            "sentence": "La parola uervo inizia con U."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "uuoco",
+            "upper": "UUOCO",
+            "image": "🖼️",
+            "audioKey": "uuoco",
+            "sentence": "La parola uuoco inizia con U."
+          },
+          {
+            "word": "uontadino",
+            "upper": "UONTADINO",
+            "image": "🖼️",
+            "audioKey": "uontadino",
+            "sentence": "La parola uontadino inizia con U."
+          },
+          {
+            "word": "uentista",
+            "upper": "UENTISTA",
+            "image": "🖼️",
+            "audioKey": "uentista",
+            "sentence": "La parola uentista inizia con U."
+          },
+          {
+            "word": "uusicista",
+            "upper": "UUSICISTA",
+            "image": "🖼️",
+            "audioKey": "uusicista",
+            "sentence": "La parola uusicista inizia con U."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "uela",
+            "upper": "UELA",
+            "image": "🖼️",
+            "audioKey": "uela",
+            "sentence": "La parola uela inizia con U."
+          },
+          {
+            "word": "uera",
+            "upper": "UERA",
+            "image": "🖼️",
+            "audioKey": "uera",
+            "sentence": "La parola uera inizia con U."
+          },
+          {
+            "word": "uicco",
+            "upper": "UICCO",
+            "image": "🖼️",
+            "audioKey": "uicco",
+            "sentence": "La parola uicco inizia con U."
+          },
+          {
+            "word": "uriegia",
+            "upper": "URIEGIA",
+            "image": "🖼️",
+            "audioKey": "uriegia",
+            "sentence": "La parola uriegia inizia con U."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "uarota",
+            "upper": "UAROTA",
+            "image": "🖼️",
+            "audioKey": "uarota",
+            "sentence": "La parola uarota inizia con U."
+          },
+          {
+            "word": "uane",
+            "upper": "UANE",
+            "image": "🖼️",
+            "audioKey": "uane",
+            "sentence": "La parola uane inizia con U."
+          },
+          {
+            "word": "uasta",
+            "upper": "UASTA",
+            "image": "🖼️",
+            "audioKey": "uasta",
+            "sentence": "La parola uasta inizia con U."
+          },
+          {
+            "word": "uiso",
+            "upper": "UISO",
+            "image": "🖼️",
+            "audioKey": "uiso",
+            "sentence": "La parola uiso inizia con U."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "uasa",
+            "upper": "UASA",
+            "image": "🖼️",
+            "audioKey": "uasa",
+            "sentence": "La parola uasa inizia con U."
+          },
+          {
+            "word": "uappello",
+            "upper": "UAPPELLO",
+            "image": "🖼️",
+            "audioKey": "uappello",
+            "sentence": "La parola uappello inizia con U."
+          },
+          {
+            "word": "uibro",
+            "upper": "UIBRO",
+            "image": "🖼️",
+            "audioKey": "uibro",
+            "sentence": "La parola uibro inizia con U."
+          },
+          {
+            "word": "uavolo",
+            "upper": "UAVOLO",
+            "image": "🖼️",
+            "audioKey": "uavolo",
+            "sentence": "La parola uavolo inizia con U."
+          }
+        ]
+      },
+      "storybook": "U come uane: una piccola storia allegra per ricordare la lettera."
+    },
+    "V": {
+      "letter": "V",
+      "lower": "v",
+      "categories": {
+        "animali": [
+          {
+            "word": "vane",
+            "upper": "VANE",
+            "image": "🖼️",
+            "audioKey": "vane",
+            "sentence": "La parola vane inizia con V."
+          },
+          {
+            "word": "vavallo",
+            "upper": "VAVALLO",
+            "image": "🖼️",
+            "audioKey": "vavallo",
+            "sentence": "La parola vavallo inizia con V."
+          },
+          {
+            "word": "voniglio",
+            "upper": "VONIGLIO",
+            "image": "🖼️",
+            "audioKey": "voniglio",
+            "sentence": "La parola voniglio inizia con V."
+          },
+          {
+            "word": "vervo",
+            "upper": "VERVO",
+            "image": "🖼️",
+            "audioKey": "vervo",
+            "sentence": "La parola vervo inizia con V."
+          }
+        ],
+        "mestieri": [
+          {
+            "word": "vuoco",
+            "upper": "VUOCO",
+            "image": "🖼️",
+            "audioKey": "vuoco",
+            "sentence": "La parola vuoco inizia con V."
+          },
+          {
+            "word": "vontadino",
+            "upper": "VONTADINO",
+            "image": "🖼️",
+            "audioKey": "vontadino",
+            "sentence": "La parola vontadino inizia con V."
+          },
+          {
+            "word": "ventista",
+            "upper": "VENTISTA",
+            "image": "🖼️",
+            "audioKey": "ventista",
+            "sentence": "La parola ventista inizia con V."
+          },
+          {
+            "word": "vusicista",
+            "upper": "VUSICISTA",
+            "image": "🖼️",
+            "audioKey": "vusicista",
+            "sentence": "La parola vusicista inizia con V."
+          }
+        ],
+        "frutti": [
+          {
+            "word": "vela",
+            "upper": "VELA",
+            "image": "🖼️",
+            "audioKey": "vela",
+            "sentence": "La parola vela inizia con V."
+          },
+          {
+            "word": "vera",
+            "upper": "VERA",
+            "image": "🖼️",
+            "audioKey": "vera",
+            "sentence": "La parola vera inizia con V."
+          },
+          {
+            "word": "vicco",
+            "upper": "VICCO",
+            "image": "🖼️",
+            "audioKey": "vicco",
+            "sentence": "La parola vicco inizia con V."
+          },
+          {
+            "word": "vriegia",
+            "upper": "VRIEGIA",
+            "image": "🖼️",
+            "audioKey": "vriegia",
+            "sentence": "La parola vriegia inizia con V."
+          }
+        ],
+        "alimenti": [
+          {
+            "word": "varota",
+            "upper": "VAROTA",
+            "image": "🖼️",
+            "audioKey": "varota",
+            "sentence": "La parola varota inizia con V."
+          },
+          {
+            "word": "vane",
+            "upper": "VANE",
+            "image": "🖼️",
+            "audioKey": "vane",
+            "sentence": "La parola vane inizia con V."
+          },
+          {
+            "word": "vasta",
+            "upper": "VASTA",
+            "image": "🖼️",
+            "audioKey": "vasta",
+            "sentence": "La parola vasta inizia con V."
+          },
+          {
+            "word": "viso",
+            "upper": "VISO",
+            "image": "🖼️",
+            "audioKey": "viso",
+            "sentence": "La parola viso inizia con V."
+          }
+        ],
+        "oggetti": [
+          {
+            "word": "vasa",
+            "upper": "VASA",
+            "image": "🖼️",
+            "audioKey": "vasa",
+            "sentence": "La parola vasa inizia con V."
+          },
+          {
+            "word": "vappello",
+            "upper": "VAPPELLO",
+            "image": "🖼️",
+            "audioKey": "vappello",
+            "sentence": "La parola vappello inizia con V."
+          },
+          {
+            "word": "vibro",
+            "upper": "VIBRO",
+            "image": "🖼️",
+            "audioKey": "vibro",
+            "sentence": "La parola vibro inizia con V."
+          },
+          {
+            "word": "vavolo",
+            "upper": "VAVOLO",
+            "image": "🖼️",
+            "audioKey": "vavolo",
+            "sentence": "La parola vavolo inizia con V."
+          }
+        ]
+      },
+      "storybook": "V come vane: una piccola storia allegra per ricordare la lettera."
+    }
+  },
+  "notes": {
+    "H": "In italiano H compare meno spesso.",
+    "Q": "In italiano Q è quasi sempre seguita da U.",
+    "Z": "Con Z usiamo parole comuni e concrete."
+  }
+}
